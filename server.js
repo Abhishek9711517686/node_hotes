@@ -78,5 +78,6 @@ app.listen(PORT, function(err) {
     console.log('listening on port' ,PORT);
 })
 
+// comment add for testing purpose 
 // module exports
 module.exports = db;
